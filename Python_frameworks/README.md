@@ -3,7 +3,7 @@
 
 Such frameworks are a one-stop solution for all developer requirements. Form generators, form validation, and template layouts are usually available with a typical full-stack framework.
 
-<details><summary> [1]. CubicWeb </summary>  
+<details><summary> <h3>[1]. CubicWeb</h3></summary>  
  - ### 1 CubicWeb
 
 Developed and curated by Logilab, CubicWeb is a free-to-use, semantic, open-source, Python-based web framework. Based on the data model, CubicWeb requires to have the same defined in order to develop a functional application. Unlike other popular Python frameworks that use separate views and models, CubicWeb makes use of cube. Multiple cubes are then joined together for creating an instance with the help of a database, a web server, and some configuration files. 
@@ -15,6 +15,9 @@ Developed and curated by Logilab, CubicWeb is a free-to-use, semantic, open-sour
       -Simplifies data-related queries with RQL (Relational Query Language) embedding
       -Support for multiple databases.
 </details>
+
+
+
 ### 2. Microframework
 
 These are lightweight frameworks that don’t offer additional functionalities and features, such as database abstraction layer, form validation, and specific tools and libraries. Developers using a microframework need to add a lot of code and additional requirements manually.
