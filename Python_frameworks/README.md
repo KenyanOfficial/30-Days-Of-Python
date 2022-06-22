@@ -25,3 +25,15 @@ These are lightweight frameworks that don’t offer additional functionalities a
 ### 3. Asynchronous Framework
 
 Gaining popularity recently, any asynchronous framework is a microframework that allows for handling a large set of concurrent connections. Typically, an asynchronous framework built for Python uses the programming language’s asyncio library.
+
+<details><summary><h3>[1]. AIOHTTP</h3></summary>
+ AIOHTTP is a Python framework that relies heavily on Python 3.5+ features, such as async & awaits. The Python framework makes use of Python’s asyncio library, and is hence an asynchronous framework. In addition to being a server web framework, AIOHTTP can also serve as a client framework. It provides a request object and router to enable the redirection of queries to functions developed to handle the same.
+
+   -Key highlights:-
+
+    - Allows effectively building the views
+    - Middlewares support
+    -Pluggable routing
+    -Signals
+    -Supports both Client WebSockets and Server WebSockets without the Callback Hell
+</details>
