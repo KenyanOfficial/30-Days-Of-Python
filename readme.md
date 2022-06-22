@@ -48,10 +48,16 @@
   <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Krakinzkon">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/krakinzkon?style=social">
+  </a>
 
   <sub>Author:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> Second Edition: July, 2021</small>
+  <small> Second Edition: July, 2021</small></br>
+  Author:
+  <a href="https://www.linkedin.com/in/krakinzkon/" target="_blank">Krakinz Kon</a><br>
+  <small> Third Edition: June, 2022</small>
   </sub>
 </div>
 
