@@ -1,7 +1,16 @@
-## Types of Python Frameworks
-### 1. Full-Stack Framework
+# Types of Python Frameworks
 
-Such frameworks are a one-stop solution for all developer requirements. Form generators, form validation, and template layouts are usually available with a typical full-stack framework.
+There are 3 Major categories of Python Frameworks, althought they still have other sub-categories, the 3 divisions are as follows;
+
+**1. Full-Stack Framework**
+
+**2. Microframework**
+
+**3. Asynchronous Framework**
+
+## 1. Full-Stack Framework
+
+Such frameworks are a one-stop solution for all developer requirements. Form generators, form validation, and template layouts are usually available with a typical full-stack framework. See examples below;-
 
  <details><summary> <h3>A. CubicWeb</h3></summary>  
   - A. CubicWeb
@@ -19,13 +28,13 @@ Developed and curated by Logilab, CubicWeb is a free-to-use, semantic, open-sour
 </details>
 
 ##
-### 2. Microframework
+## 2. Microframework
 
-These are lightweight frameworks that don’t offer additional functionalities and features, such as database abstraction layer, form validation, and specific tools and libraries. Developers using a microframework need to add a lot of code and additional requirements manually.
+These are lightweight frameworks that don’t offer additional functionalities and features, such as database abstraction layer, form validation, and specific tools and libraries. Developers using a microframework need to add a lot of code and additional requirements manually. See examples below;-
 ##
-### 3. Asynchronous Framework
+## 3. Asynchronous Framework
 
-Gaining popularity recently, any asynchronous framework is a microframework that allows for handling a large set of concurrent connections. Typically, an asynchronous framework built for Python uses the programming language’s asyncio library.
+Gaining popularity recently, any asynchronous framework is a microframework that allows for handling a large set of concurrent connections. Typically, an asynchronous framework built for Python uses the programming language’s asyncio library. See examples below;-
 
  <details><summary><h3>A. AIOHTTP</h3></summary>
   - A. AIOHTTP
